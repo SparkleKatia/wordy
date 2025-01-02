@@ -19,4 +19,9 @@
 <img src="Screenshots/1.png" alt="Screenshot" width="300" height="600"/>
 <img src="Screenshots/2.png" alt="Screenshot" width="300" height="600"/>
 <img src="Screenshots/3.png" alt="Screenshot" width="300" height="600"/>
+<img src="Screenshots/4.png" alt="Screenshot" width="300" height="600"/>
+<img src="Screenshots/5.png" alt="Screenshot" width="300" height="600"/>
+<img src="Screenshots/6.png" alt="Screenshot" width="300" height="600"/>
+<img src="Screenshots/7.png" alt="Screenshot" width="300" height="600"/>
+<img src="Screenshots/8.png" alt="Screenshot" width="300" height="600"/>
 </p>
