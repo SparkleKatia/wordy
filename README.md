@@ -1,9 +1,3 @@
-//
-//  README.md
-//  Wordy
-//
-//  Created by Kateryna on 02/01/2025.
-//
 
 ## Features
 
